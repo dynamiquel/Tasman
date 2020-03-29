@@ -1,0 +1,722 @@
+[
+  //Air
+  {
+    "itemId": "0",
+    "drops":  [ "0" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "0", "0" ] //Top, Bottom, North, East, South, West
+    ]
+  },
+  //Dirt
+  {
+    "itemId": "1",
+    "drops": [ "1" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "0", "17" ]
+    ]
+  },
+  //Grass
+  {
+    "itemId": "2",
+    "drops": [ "1" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "2", "17" ],
+      [ "0", "17" ],
+      [ "1", "17" ]
+    ]
+  },
+  //Stone
+  {
+    "itemId": "3",
+    "drops": [ "4" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "3", "17" ]
+    ]
+  },
+  //Cobblestone
+  {
+    "itemId": "4",
+    "drops": [ "4" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "4", "17" ]
+    ]
+  },
+  //Bedrock
+  {
+    "itemId": "5",
+    "drops": [ "5" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "0", "16" ]
+    ]
+  },
+  //Moss Stone
+  {
+    "itemId": "6",
+    "drops": [ "7" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "1", "16" ]
+    ]
+  },
+  //Moss Cobblestone
+  {
+    "itemId": "7",
+    "drops": [ "7" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "2", "16" ]
+    ]
+  },
+  //Sand
+  {
+    "itemId": "8",
+    "drops": [ "8" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "13", "17" ]
+    ]
+  },
+  //Sandstone
+  {
+    "itemId": "9",
+    "drops": [ "9" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "14", "17" ]
+    ]
+  },
+  //Gravel
+  {
+    "itemId": "10",
+    "drops": [ "10" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "15", "17" ]
+    ]
+  },
+  //Clay
+  {
+    "itemId": "11",
+    "drops": [ "11" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "16", "17" ]
+    ]
+  },
+  //Obsidian
+  {
+    "itemId": "12",
+    "drops": [ "12" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "17", "17" ]
+    ]
+  },
+  //Snow
+  {
+    "itemId": "13",
+    "drops": [ "13" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "5", "16" ]
+    ]
+  },
+  //Ice
+  {
+    "itemId": "14",
+    "drops": [ "14" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "6", "16" ]
+    ]
+  },
+  //Stone Bricks
+  {
+    "itemId": "15",
+    "drops": [ "15" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "3", "16" ]
+    ]
+  },
+  //Bricks
+  {
+    "itemId": "16",
+    "drops": [ "16" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "4", "16" ]
+    ]
+  },
+  //Coal Ore
+  {
+    "itemId": "17",
+    "drops": [ "17" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "5", "17" ]
+    ]
+  },
+  //Copper Ore
+  {
+    "itemId": "18",
+    "drops": [ "18" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "6", "17" ]
+    ]
+  },
+  //Iron Ore
+  {
+    "itemId": "19",
+    "drops": [ "19" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "7", "17" ]
+    ]
+  },
+  //Gold Ore
+  {
+    "itemId": "20",
+    "drops": [ "20" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "8", "17" ]
+    ]
+  },
+  //Sapphire Ore
+  {
+    "itemId": "21",
+    "drops": [ "21" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "9", "17" ]
+    ]
+  },
+  //Ruby Ore
+  {
+    "itemId": "22",
+    "drops": [ "22" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "10", "17" ]
+    ]
+  },
+  //Emerald Ore
+  {
+    "itemId": "23",
+    "drops": [ "23" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "11", "17" ]
+    ]
+  },
+  //Diamond Ore
+  {
+    "itemId": "24",
+    "drops": [ "24" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "12", "17" ]
+    ]
+  },
+  //Wood Log
+  {
+    "itemId": "25",
+    "drops": [ "25" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "8", "16" ],
+      [ "8", "16" ],
+      [ "7", "16" ]
+    ]
+  },
+  //Wood Planks
+  {
+    "itemId": "26",
+    "drops": [ "26" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "9", "16" ]
+    ]
+  },
+  //Bookshelf
+  {
+    "itemId": "27",
+    "drops": [ "27" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "9", "16" ],
+      [ "9", "16" ],
+      [ "10", "16" ]
+    ]
+  },
+//Blue Wool
+  {
+    "itemId": "28",
+    "drops": [ "28" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "11", "16" ]
+    ]
+  },
+//Light Blue Wool
+  {
+    "itemId": "29",
+    "drops": [ "29" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "14", "16" ]
+    ]
+  },
+//Dark Blue Wool
+  {
+    "itemId": "30",
+    "drops": [ "30" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "13", "16" ]
+    ]
+  },
+//Cyan Wool
+  {
+    "itemId": "31",
+    "drops": [ "31" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "12", "16" ]
+    ]
+  },
+//Turquoise Wool
+  {
+    "itemId": "32",
+    "drops": [ "32" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "17", "16" ]
+    ]
+  },
+//Magenta Wool
+  {
+    "itemId": "33",
+    "drops": [ "33" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "15", "16" ]
+    ]
+  },
+//Purple Wool
+  {
+    "itemId": "34",
+    "drops": [ "34" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "16", "16" ]
+    ]
+  },
+//Violet Wool
+  {
+    "itemId": "35",
+    "drops": [ "35" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "0", "15" ]
+    ]
+  },
+//Green Wool
+  {
+    "itemId": "36",
+    "drops": [ "36" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "2", "15" ]
+    ]
+  },
+//Dark Green Wool
+  {
+    "itemId": "37",
+    "drops": [ "37" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "1", "15" ]
+    ]
+  },
+//Lime Wool
+  {
+    "itemId": "38",
+    "drops": [ "38" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "3", "15" ]
+    ]
+  },
+//Orange Wool
+  {
+    "itemId": "39",
+    "drops": [ "39" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "4", "15" ]
+    ]
+  },
+//Pink Wool
+  {
+    "itemId": "40",
+    "drops": [ "40" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "5", "15" ]
+    ]
+  },
+  //Light Pink Wool
+  {
+    "itemId": "41",
+    "drops": [ "41" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "10", "15" ]
+    ]
+  },
+//Red Wool
+  {
+    "itemId": "42",
+    "drops": [ "42" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "6", "15" ]
+    ]
+  },
+  //Dark Red Wool
+  {
+    "itemId": "43",
+    "drops": [ "43" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "9", "15" ]
+    ]
+  },
+//Brown Wool
+  {
+    "itemId": "45",
+    "drops": [ "45" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "8", "15" ]
+    ]
+  },
+//Yellow Wool
+  {
+    "itemId": "46",
+    "drops": [ "46" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "7", "15" ]
+    ]
+  },
+//White Wool
+  {
+    "itemId": "47",
+    "drops": [ "47" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "12", "15" ]
+    ]
+  },
+//Light Grey Wool
+  {
+    "itemId": "48",
+    "drops": [ "48" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "11", "15" ]
+    ]
+  },
+//Grey Wool
+  {
+    "itemId": "49",
+    "drops": [ "49" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "15", "15" ]
+    ]
+  },
+  //Dark Grey Wool
+  {
+    "itemId": "50",
+    "drops": [ "50" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "14", "15" ]
+    ]
+  },
+  //Black Wool
+  {
+    "itemId": "51",
+    "drops": [ "51" ],
+    /*"physics": "false",
+        "flammable": "false",
+        "effectiveTool": "",
+        "harvestLevel": "1",
+        "hardness": "1",
+        "luminance": "0",*/
+    "texturePos": [
+      [ "13", "15" ]
+    ]
+  }
+]

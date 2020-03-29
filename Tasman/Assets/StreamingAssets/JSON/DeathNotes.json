@@ -1,0 +1,75 @@
+[
+  // 0 seconds
+  {
+    "seconds": "0",
+    "description": [
+      "Did somebody spawn kill you?",
+      "Are you wanting to die?",
+      "Please live for just a little longer",
+      "At least last a minute",
+      "Do you know how to survive?",
+      "You should kill whatever killed you, even if it isn't living",
+      "You should come back later",
+      "You wasn't supposed to die this early",
+      "Can you just stop dying?",
+      "You should run in a different direction",
+      "Don't stop moving!",
+      "Could you die any quicker?"
+    ]
+  },
+  // Minute
+  {
+    "seconds": "60",
+    "description": [
+      "You died fairly quick",
+      "Don't die",
+      "You're supposed to live longer than this",
+      "Don't die this early again",
+      "You deserved to die"
+    ]
+  },
+  // Hour
+  {
+    "seconds": "3600",
+    "description": [
+      ""
+    ]
+  },
+  // 12 hour
+  {
+    "seconds": "43200",
+    "description": [
+      ""
+    ]
+  },
+  // Day
+  {
+    "seconds": "86400",
+    "description": [
+      ""
+    ]
+  },
+  // Week
+  {
+    "seconds": "604800",
+    "description": [
+      ""
+    ]
+  },
+  // Month
+  {
+    "seconds": "2678400",
+    "description": [
+      "You died this far on, do you really want to try again?"
+    ]
+  },
+  // Year
+  {
+    "seconds": "31536000",
+    "description": [
+      "I wasn't expecting anyone to play for this long; yet you managed to last over a year within a single life. Well done!",
+      "Did you break time? How did you last for this long? I have many questions",
+      "I think you need to stop playing this game"
+    ]
+  }
+]

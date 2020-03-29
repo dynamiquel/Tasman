@@ -1,0 +1,626 @@
+[
+  //Air
+  {
+    "id": "0",
+    "addonName": "Vanilla",
+    "itemName": "Air",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "0",
+    "smeltExperience": "1",
+    "stackLimit": "1"
+  },
+  //Dirt
+  {
+    "id": "1",
+    "addonName": "Vanilla",
+    "itemName": "Dirt",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Grass
+  {
+    "id": "2",
+    "addonName": "Vanilla",
+    "itemName": "Grass",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Stone
+  {
+    "id": "3",
+    "addonName": "Vanilla",
+    "itemName": "Stone",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Cobblestone
+  {
+    "id": "4",
+    "addonName": "Vanilla",
+    "itemName": "Cobblestone",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Bedrock
+  {
+    "id": "5",
+    "addonName": "Vanilla",
+    "itemName": "Bedrock",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Moss Stone
+  {
+    "id": "6",
+    "addonName": "Vanilla",
+    "itemName": "Moss Stone",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Moss Cobblestone
+  {
+    "id": "7",
+    "addonName": "Vanilla",
+    "itemName": "Moss Cobblestone",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Sand
+  {
+    "id": "8",
+    "addonName": "Vanilla",
+    "itemName": "Sand",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Sandstone
+  {
+    "id": "9",
+    "addonName": "Vanilla",
+    "itemName": "Glowy Sandstone",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Gravel
+  {
+    "id": "10",
+    "addonName": "Vanilla",
+    "itemName": "Gravel",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Clay
+  {
+    "id": "11",
+    "addonName": "Vanilla",
+    "itemName": "Clay",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Obsidian
+  {
+    "id": "12",
+    "addonName": "Vanilla",
+    "itemName": "Obsidian",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Snow
+  {
+    "id": "13",
+    "addonName": "Vanilla",
+    "itemName": "Snow",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Ice
+  {
+    "id": "14",
+    "addonName": "Vanilla",
+    "itemName": "Ice",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Stone Bricks
+  {
+    "id": "15",
+    "addonName": "Vanilla",
+    "itemName": "Stone Bricks",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Bricks
+  {
+    "id": "16",
+    "addonName": "Vanilla",
+    "itemName": "Bricks",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Coal Ore
+  {
+    "id": "17",
+    "addonName": "Vanilla",
+    "itemName": "Coal Ore",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Copper Ore
+  {
+    "id": "18",
+    "addonName": "Vanilla",
+    "itemName": "Copper Ore",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Iron Ore
+  {
+    "id": "19",
+    "addonName": "Vanilla",
+    "itemName": "Iron Ore",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Gold Ore
+  {
+    "id": "20",
+    "addonName": "Vanilla",
+    "itemName": "Gold Ore",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Sapphire Ore
+  {
+    "id": "21",
+    "addonName": "Vanilla",
+    "itemName": "Sapphire Ore",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Ruby Ore
+  {
+    "id": "22",
+    "addonName": "Vanilla",
+    "itemName": "Ruby Ore",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Emerald Ore
+  {
+    "id": "23",
+    "addonName": "Vanilla",
+    "itemName": "Emerald Ore",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Diamond Ore
+  {
+    "id": "24",
+    "addonName": "Vanilla",
+    "itemName": "Diamond Ore",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Wood Log
+  {
+    "id": "25",
+    "addonName": "Vanilla",
+    "itemName": "Wood Log",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Wood Planks
+  {
+    "id": "26",
+    "addonName": "Vanilla",
+    "itemName": "Wood Planks",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Bookshelf
+  {
+    "id": "27",
+    "addonName": "Vanilla",
+    "itemName": "Bookshelf",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Blue Wool
+  {
+    "id": "28",
+    "addonName": "Vanilla",
+    "itemName": "Blue Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Light Blue Wool
+  {
+    "id": "29",
+    "addonName": "Vanilla",
+    "itemName": "Light Blue Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Dark Blue Wool
+  {
+    "id": "30",
+    "addonName": "Vanilla",
+    "itemName": "Dark Blue Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Cyan Wool
+  {
+    "id": "31",
+    "addonName": "Vanilla",
+    "itemName": "Cyan Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Turquoise Wool
+  {
+    "id": "32",
+    "addonName": "Vanilla",
+    "itemName": "Turquoise Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Magenta Wool
+  {
+    "id": "33",
+    "addonName": "Vanilla",
+    "itemName": "Magenta Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Purple Wool
+  {
+    "id": "34",
+    "addonName": "Vanilla",
+    "itemName": "Purple Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Violet Wool
+  {
+    "id": "35",
+    "addonName": "Vanilla",
+    "itemName": "Violet Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Green Wool
+  {
+    "id": "36",
+    "addonName": "Vanilla",
+    "itemName": "Green Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Dark Green Wool
+  {
+    "id": "37",
+    "addonName": "Vanilla",
+    "itemName": "Dark Green Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Lime Wool
+  {
+    "id": "38",
+    "addonName": "Vanilla",
+    "itemName": "Lime Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Orange Wool
+  {
+    "id": "39",
+    "addonName": "Vanilla",
+    "itemName": "Orange Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Pink Wool
+  {
+    "id": "40",
+    "addonName": "Vanilla",
+    "itemName": "Pink Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Light Pink Wool
+  {
+    "id": "41",
+    "addonName": "Vanilla",
+    "itemName": "Light Pink Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Red Wool
+  {
+    "id": "42",
+    "addonName": "Vanilla",
+    "itemName": "Red Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Dark Red Wool
+  {
+    "id": "43",
+    "addonName": "Vanilla",
+    "itemName": "Dark Red Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Maroon Wool
+  {
+    "id": "44",
+    "addonName": "Vanilla",
+    "itemName": "Maroon Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Brown Wool
+  {
+    "id": "45",
+    "addonName": "Vanilla",
+    "itemName": "Brown Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Yellow Wool
+  {
+    "id": "46",
+    "addonName": "Vanilla",
+    "itemName": "Yellow Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //White Wool
+  {
+    "id": "47",
+    "addonName": "Vanilla",
+    "itemName": "White Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Light Grey Wool
+  {
+    "id": "48",
+    "addonName": "Vanilla",
+    "itemName": "Light Grey Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Grey Wool
+  {
+    "id": "49",
+    "addonName": "Vanilla",
+    "itemName": "Grey Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Dark Grey Wool
+  {
+    "id": "50",
+    "addonName": "Vanilla",
+    "itemName": "Dark Grey Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  },
+  //Black Wool
+  {
+    "id": "51",
+    "addonName": "Vanilla",
+    "itemName": "Black Wool",
+    "description": "Very natural",
+    "keyInfo": "0 damage",
+    "itemType": "Block",
+    "value": "1",
+    "smeltExperience": "1",
+    "stackLimit": "64"
+  }
+]
